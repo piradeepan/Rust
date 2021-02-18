@@ -1,0 +1,11 @@
+/Users/piradeepan/MyFiles/CSUCourses/Fall2020/CSCI640/Assignments-Piradeep-Subhed/CSCI640-ConcurrentWebProxy-Rust-master/proxy/target/rls/debug/deps/url-155a5e2294531e35.rmeta: /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/piradeepan/MyFiles/CSUCourses/Fall2020/CSCI640/Assignments-Piradeep-Subhed/CSCI640-ConcurrentWebProxy-Rust-master/proxy/target/rls/debug/deps/url-155a5e2294531e35.d: /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs:

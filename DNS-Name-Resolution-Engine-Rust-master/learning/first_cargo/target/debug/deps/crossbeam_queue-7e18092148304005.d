@@ -1,0 +1,9 @@
+/Users/piradeepan/MyFiles/CSUCourses/Fall2020/CSCI640/Assignments-Piradeep-Subhed/CSCI640-DNS-Name-Resolution-Engine-Rust-master/learning/first_cargo/target/debug/deps/crossbeam_queue-7e18092148304005.rmeta: /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/lib.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/array_queue.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/seg_queue.rs
+
+/Users/piradeepan/MyFiles/CSUCourses/Fall2020/CSCI640/Assignments-Piradeep-Subhed/CSCI640-DNS-Name-Resolution-Engine-Rust-master/learning/first_cargo/target/debug/deps/libcrossbeam_queue-7e18092148304005.rlib: /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/lib.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/array_queue.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/seg_queue.rs
+
+/Users/piradeepan/MyFiles/CSUCourses/Fall2020/CSCI640/Assignments-Piradeep-Subhed/CSCI640-DNS-Name-Resolution-Engine-Rust-master/learning/first_cargo/target/debug/deps/crossbeam_queue-7e18092148304005.d: /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/lib.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/array_queue.rs /Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/seg_queue.rs
+
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/lib.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/array_queue.rs:
+/Users/piradeepan/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.3.1/src/seg_queue.rs:
